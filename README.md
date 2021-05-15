@@ -5,5 +5,13 @@
 > I only create repositories for YouTube tutorials (Discord bots).\
 >
 > # __**Links**__
-> • [Discord](https://discord.com/invite/EAUSe2UDxj)\
-> • [YouTube](https://youtube.com/c/CosmicDev)
+> * [Discord](https://discord.com/invite/EAUSe2UDxj)\
+> * [YouTube](https://youtube.com/c/CosmicDev)
+> * [@CosmicDev](https://twitter.com/CosmicDev360)
+> 
+> # __**Random Facts**__
+> * I play the violin  🎻
+> * I usually sleep at 2 am.
+> 
+> # __**My Current Favourite Song**__
+> 
