@@ -14,4 +14,4 @@
 > * I usually sleep at 2 am.
 > 
 > # __**My Current Favourite Song**__
-> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wx04vhwrkd7lwvs282ctvb06l?si=c180347063534c0a&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=wx04vhwrkd7lwvs282ctvb06l?si=c180347063534c0a&redirect=true)
+<iframe src="https://open.spotify.com/embed/track/2TeLIzFBe3hxkPR5FIQZut" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
