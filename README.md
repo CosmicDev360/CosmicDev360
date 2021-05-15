@@ -1,4 +1,3 @@
-{::options parse_block_html="true" /}
 > # __**About Me**__
 >
 > Hey there! I'm [CosmicDev](https://youtube.com/c/CosmicDev).\
@@ -13,6 +12,3 @@
 > # __**Random Facts**__
 > * I play the violin  🎻
 > * I usually sleep at 2 am.
-> 
-> # __**My Current Favourite Song**__
-<iframe src="https://open.spotify.com/embed/track/2TeLIzFBe3hxkPR5FIQZut" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
