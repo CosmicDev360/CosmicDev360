@@ -5,7 +5,7 @@
 > I only create repositories for YouTube tutorials (Discord bots).
 >
 > # __**Links**__
-> * [Discord](https://discord.com/invite/EAUSe2UDxj)\
+> * [Discord](https://discord.com/invite/EAUSe2UDxj)
 > * [YouTube](https://youtube.com/c/CosmicDev)
 > * [@CosmicDev](https://twitter.com/CosmicDev360)
 > 
