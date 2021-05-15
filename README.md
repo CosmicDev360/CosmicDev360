@@ -14,4 +14,4 @@
 > * I usually sleep at 2 am.
 > 
 > # __**My Current Favourite Song**__
-> * [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI?si=SVfi46TRRs-JvXgvXcqO6A) - [Like I can](https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut?si=4cc2ea886a894785)
+> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wx04vhwrkd7lwvs282ctvb06l?si=c180347063534c0a&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=wx04vhwrkd7lwvs282ctvb06l?si=c180347063534c0a&redirect=true)
