@@ -1,3 +1,4 @@
+{::options parse_block_html="true" /}
 > # __**About Me**__
 >
 > Hey there! I'm [CosmicDev](https://youtube.com/c/CosmicDev).\
